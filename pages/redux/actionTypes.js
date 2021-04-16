@@ -1,0 +1,1 @@
+export const CASE_1 ="CASE_1"
